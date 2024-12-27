@@ -8,6 +8,7 @@ namespace Tyuiu.ParamonovaVA.Sprint6.Task0.V4.Test
         [TestMethod]
         public void TestMethod1()
         {
+
             DataService ds = new DataService();
             int x = 3;
             double res = ds.Calculate(x);
