@@ -11,7 +11,7 @@ namespace Tyuiu.ParamonovaVA.Sprint6.Task5.V11
 
         DataService ds = new DataService();
 
-        string path = @"C:\Users\alina\source\repos\Tyuiu.GalimovaAS.Sprint6\DataSprint6\InPutDataFileTask5V11.txt";
+        string path = @"C:\Users\Дети\source\repos\Tyuiu.ParamonovaVA.Sprint6\DataSprint6\InPutDataFileTask5V11.txt";
 
         private void textBoxData_TextChanged(object sender, EventArgs e)
         {
