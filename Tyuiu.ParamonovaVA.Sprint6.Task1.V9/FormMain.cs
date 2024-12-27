@@ -22,6 +22,7 @@ namespace Tyuiu.ParamonovaVA.Sprint6.Task1.V9
 
         private void ButtonDone_Click(object sender, EventArgs e)
         {
+
             try
             {
                 int startStep = Convert.ToInt32(textBoxStart.Text);
